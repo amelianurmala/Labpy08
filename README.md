@@ -4,7 +4,7 @@
 ## Nama   : Amelia Nurmala Dewi (312410199)
 ## Kelas  : TI.24.A2
 
-.
+
 
 ___
 ### Berikut adalah gambar kodenya (Input)
