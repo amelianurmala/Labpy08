@@ -1,5 +1,5 @@
 # Labpy08
-# TUGAS PRATIKUM 08
+# TUGAS PRATIKUM 8
 
 ## Nama   : Amelia Nurmala Dewi (312410199)
 ## Kelas  : TI.24.A2
