@@ -50,11 +50,13 @@ ___
 
 ### Berikut adalah gambar Diagram Classnya
 
+![DIAGRAM CLASS](https://github.com/user-attachments/assets/3c978c6a-b4be-40b4-bec5-f14803500902)
 
 
 
 ### Berikut adalah gambar Flowchartnya
 
+![FLOWCHART](https://github.com/user-attachments/assets/54bfb15d-29ed-4708-9dc1-d2d5759ad4c8)
 
 
    
