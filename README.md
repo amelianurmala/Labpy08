@@ -13,21 +13,21 @@ ___
 
 ### Berikut adalah Penjelasannya (Input)
 
-1. **Class `Mahasiswa`:**
-   - **`tambah(nama, nilai)`**: Menambahkan data mahasiswa ke dalam list `daftar_mahasiswa`.
-   - **`tampilkan()`**: Menampilkan seluruh data mahasiswa yang tersimpan. Jika list kosong, tampilkan pesan bahwa daftar kosong.
-   - **`hapus(nama)`**: Menghapus data mahasiswa berdasarkan nama. Jika nama tidak ditemukan, tampilkan pesan error.
-   - **`ubah(nama, nilai_baru)`**: Mengubah nilai mahasiswa berdasarkan nama. Jika nama tidak ditemukan, tampilkan pesan error.
 
-2. **Eksekusi Program (bagian `if __name__ == "__main__":`):**
-   - Membuat instance `mhs` dari class `Mahasiswa`.
-   - Menambahkan dua data mahasiswa: "Amelia" (nilai 85) dan "Farhan" (nilai 90).
-   - Menampilkan data mahasiswa.
-   - Mengubah nilai "Amelia" menjadi 95, lalu menampilkan data terbaru.
-   - Menghapus data "Farhan", lalu menampilkan data mahasiswa yang tersisa.
+1. **Inisialisasi Kelas**:  
+   Kelas `Mahasiswa` memiliki atribut `daftar_mahasiswa`, yang berupa list untuk menyimpan data mahasiswa berupa nama dan nilai. Data mahasiswa disimpan dalam bentuk dictionary dengan kunci `nama` dan `nilai`.
 
-3. **Tujuan Utama:**
-   Program ini menunjukkan penggunaan OOP (Object-Oriented Programming) dengan Python untuk mengelola data mahasiswa. Fungsi utama mencakup penambahan, penghapusan, pengubahan, dan penampilan data.
+2. **Fungsi Tambah Data**:  
+   Fungsi `tambah(nama, nilai)` menambahkan data mahasiswa baru ke dalam `daftar_mahasiswa`. Setelah data ditambahkan, program menampilkan pesan keberhasilan.
+
+3. **Fungsi Menampilkan Data**:  
+   Fungsi `tampilkan()` digunakan untuk menampilkan semua data mahasiswa. Jika daftar kosong, program akan mencetak pesan bahwa daftar mahasiswa kosong. Jika terdapat data, program mencetak nama dan nilai setiap mahasiswa.
+
+4. **Fungsi Hapus Data**:  
+   Fungsi `hapus(nama)` mencari mahasiswa berdasarkan nama. Jika ditemukan, data mahasiswa tersebut dihapus dari daftar, dan program mencetak pesan keberhasilan. Jika tidak ditemukan, program mencetak pesan bahwa nama mahasiswa tidak ada dalam daftar.
+
+5. **Fungsi Ubah Data**:  
+   Fungsi `ubah(nama, nilai_baru)` mencari mahasiswa berdasarkan nama. Jika ditemukan, nilai mahasiswa tersebut diperbarui, dan program mencetak pesan keberhasilan. Jika tidak ditemukan, program mencetak pesan bahwa nama mahasiswa tidak ada dalam daftar.
 
 
 ### Berikut adalah gambar hasilnya (Output)
