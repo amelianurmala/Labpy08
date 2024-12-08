@@ -50,13 +50,15 @@ ___
 
 ### Berikut adalah gambar Diagram Classnya
 
-![DIAGRAM CLASS](https://github.com/user-attachments/assets/3c978c6a-b4be-40b4-bec5-f14803500902)
+![Diagramclass2024-12-08 at 09 42 07](https://github.com/user-attachments/assets/17b99769-0483-4f97-9d70-e9b01bf49b4c)
+
 
 
 
 ### Berikut adalah gambar Flowchartnya
 
-![FLOWCHART](https://github.com/user-attachments/assets/54bfb15d-29ed-4708-9dc1-d2d5759ad4c8)
+![flowchart2024-12-08-023822](https://github.com/user-attachments/assets/bd05a0a9-8647-4b3b-9291-3c61d6f3d996)
+
 
 
    
